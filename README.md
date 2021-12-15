@@ -1,8 +1,22 @@
-## Welcome to GitHub Pages
+## Территория воплощений там, где есть Вы.
 
-You can use the [editor on GitHub](https://github.com/incarnation-territory/incarnation-territory.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Хотите запустить IT компанию?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+начните с идеи
+
+задокументируйте её концептуально и технически
+
+соберите команду 
+
+спроектируйте аржитектуру
+
+выстройте рабочие процессы
+
+расчитайте бюджет
+
+зарядите баланс
+
+пуск!
 
 ### Markdown
 
